@@ -1,12 +1,14 @@
-Excel usually has alert message when we make certain types of erros it is necesscary to read the error message properly and use that help you edentify the probelms like as 
+Excel usually has alert message when we make certain types of erros it is necesscary to read the error message properly and use that help you edentify the probelms 
 
-#CACLC error
+# list of error
 
-#DIV/ error
+CACLC error
 
-#N/A error
+DIV/ error
 
-#NAME eror
+N/A error
+
+NAME eror
 
 after getting of this types of comman error we can get help from google  there are many websites which are help to to solve this Problems
 
