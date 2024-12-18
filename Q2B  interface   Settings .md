@@ -1,6 +1,6 @@
 firstly right click on start menu and choose Settings  Then, select Accounts from the menu on the left, and scroll down to the Account settings area.
 
-There are several options available from the Accounts settings page:
+There are several options available from the Accounts settings 
 
 Your info
 
