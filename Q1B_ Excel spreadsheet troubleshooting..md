@@ -11,3 +11,5 @@ Excel usually has alert message when we make certain types of erros it is necess
 after getting of this types of comman error we can get help from google  there are many websites which are help to to solve this Problems
 
 #https://www.goskills.com/Excel/Resources/Excel-errors
+
+#https://repairit.wondershare.com/office-document-repair/fix-excel-error.html
