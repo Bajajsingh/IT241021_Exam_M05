@@ -1,6 +1,6 @@
  there are some advance features and settings you can take advantage of. If you haven't had a chance to explore all the best tips and tricks in Windows 11, start with the ones listed here.
 
- . Realign the Start Button
+ Realign the Start Button
 
  Generate Text and Images With Copilot
 
